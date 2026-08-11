@@ -29,6 +29,7 @@
 0.0.0.0 cfss.crs.playstation.net
 0.0.0.0 gs-sec.ww.np.dl.playstation.net
 0.0.0.0 uef.np.dl.playstation.net
+0.0.0.0 ecode.np.cs.playstation.net
 ||rsgameservices.com^
 ||playstation.com^
 ||epicgames.com^
