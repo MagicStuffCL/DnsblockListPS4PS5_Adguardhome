@@ -37,8 +37,8 @@
 ||cdpred.services^
 ||cdprojekt.com^
 #EDITED FOR USE WITH Y2JB
-0.0.0.0 www.youtube.cim
-0.0.0.0 www.youtube.com
+#0.0.0.0 www.youtube.cim
+#0.0.0.0 www.youtube.com
 #PS4
 0.0.0.0	dau01.ps4.update.playstation.net
 0.0.0.0	dbr01.ps4.update.playstation.net
